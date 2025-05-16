@@ -1,6 +1,3 @@
-# digital-humanities-python
-requirements nltk, matplotlib
-
 # Digital Humanities in Python
 
 ## Beschreibung
@@ -17,3 +14,11 @@ Um das Projekt auszuführen, müssen die folgenden Python-Pakete installiert sei
    ```bash
    git clone https://github.com/username/digital-humanities-python.git
    cd digital-humanities-python
+   
+## Run  
+git init
+git add .
+git commit -m "Inizializzazione del progetto Digital Humanities"
+git branch -M main
+git remote add origin https://github.com/dhleitfaden.eu/digital-humanities-python.git
+git push -u origin main
